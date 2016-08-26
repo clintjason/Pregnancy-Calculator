@@ -1,2 +1,2 @@
- # Pregancy Calculator  
- ### a cool app written in J2ME  
+  Pregancy Calculator
+ A cool app written in J2ME  
